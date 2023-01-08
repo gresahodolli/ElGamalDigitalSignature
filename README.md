@@ -8,8 +8,10 @@ This project is an implementation of the ElGamal digital signature algorithm in 
 3.	Open the solution file in Visual Studio: ElGamalDigitalSignature.sln
 4.	Build the solution to install the required dependencies
 # Usage
-•	The keys generato: Generate Keys
+•	The keys generator: Generate Keys
+
 •	The encryption algorithm: ElGamal Encryption
+
 •	The decryption algorithm: ElGamal Decryption
 # Contribution
 To contribute to this project, please create a new branch from the dev branch and submit a pull request. All contributions must follow the project's style guidelines and include appropriate unit tests.
