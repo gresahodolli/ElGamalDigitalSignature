@@ -16,4 +16,4 @@ This project is an implementation of the ElGamal digital signature algorithm in 
 # Contribution
 To contribute to this project, please create a new branch from the dev branch and submit a pull request. All contributions must follow the project's style guidelines and include appropriate unit tests.
 # Contact
-For any questions or issues, please contact the project maintainers at erdison.berisha@student.uni-pr.edu | gresa.hodolli1@student.uni-pr.edu | lejla.beqiri@student.uni-pr.edu .
+For any questions or issues, please contact the project maintainers at erdison.berisha@student.uni-pr.edu | gresa.hodolli1@student.uni-pr.edu | lejla.beqiri@student.uni-pr.edu | lejlabeqiri@hotmail.com .
