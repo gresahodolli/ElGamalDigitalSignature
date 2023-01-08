@@ -5,7 +5,7 @@ This project is an implementation of the ElGamal digital signature algorithm in 
 # Installation
 1.	Clone the repository: git clone https://github.com/gresahodolli/ElGamalDigitalSignature.git
 2.	Navigate to the project directory: cd ElGamalDigitalSignature 
-3.	Open the solution file in Visual Studio: ElGamalDigitalSignature.sln
+3.	Open the solution file in Visual Studio: ElGamal_Algoritmi.sln
 4.	Build the solution to install the required dependencies
 # Usage
 •	The keys generator: Generate Keys
